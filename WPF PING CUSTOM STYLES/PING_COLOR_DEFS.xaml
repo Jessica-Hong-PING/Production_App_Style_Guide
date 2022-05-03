@@ -1,0 +1,7 @@
+<SolidColorBrush x:Key="PING_COLOR_WHITE"       Color="#FFF2F2F2" />
+<SolidColorBrush x:Key="PING_COLOR_LIGHT_GRAY"  Color="#FFD2D2D2" />
+<SolidColorBrush x:Key="PING_COLOR_MEDIUM_GRAY" Color="#FFBDBDBD" />
+<SolidColorBrush x:Key="PING_COLOR_DARK_GRAY"   Color="#FFAAAAAA" />
+<SolidColorBrush x:Key="PING_COLOR_BLACK"       Color="#FF121212" />
+<SolidColorBrush x:Key="PING_COLOR_ERROR"       Color="#FFFF0F15" />
+<SolidColorBrush x:Key="PING_COLOR_WARNING"     Color="#FFEFF334" />
