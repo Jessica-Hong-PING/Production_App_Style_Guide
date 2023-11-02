@@ -1,7 +1,6 @@
 # Production_App_Style_Guide
-PING Production App Style Guide
 
-HOW TO ADD AND USE THESE STYLES TO YOUR WPF PROJECT:
+HOW TO ADD AND USE THESE STYLES IN YOUR WPF PROJECT:
 
 1. In the Solution Explorer, add a new folder called "Styles":
   - TODO: Picture of empty styles folder
