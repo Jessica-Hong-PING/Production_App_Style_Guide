@@ -11,8 +11,8 @@ HOW TO ADD AND USE THESE STYLES IN YOUR WPF PROJECT:
 
 ![example App.xaml code](https://github.com/LoganScholz-PING/Production_App_Style_Guide/blob/main/Images/AppXamlExample.PNG)
 
-  - NOTE #1: Every ResourceDictionary you include into your project MUST be included on its own line inside App.xaml!
-  - NOTE #2: You will always need to register PingColorStyles.xaml first (as in the above example). All other PING custom styles rely on these custom colors
+  - NOTE #1: You will always need to register PingColorStyles.xaml first (as in the above example). All other PING custom styles rely on these custom colors
+  - NOTE #2: Every ResourceDictionary you include into your project MUST be included on its own line inside App.xaml!
 
 4. To style your control, you need to specify the style in the .xaml. Here is an example of a button with the custom PING style (from MainWindow.xaml):
 
