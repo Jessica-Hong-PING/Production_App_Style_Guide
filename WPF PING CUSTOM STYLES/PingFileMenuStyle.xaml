@@ -312,7 +312,7 @@
                 <Popup x:Name="PART_Popup" 
                        AllowsTransparency="true" 
                        Focusable="false" 
-                       HorizontalOffset="1" 
+                       HorizontalOffset="2" 
                        IsOpen="{Binding IsSubmenuOpen, RelativeSource={RelativeSource TemplatedParent}}" 
                        Placement="Right" 
                        PopupAnimation="{DynamicResource {x:Static SystemParameters.MenuPopupAnimationKey}}" 
