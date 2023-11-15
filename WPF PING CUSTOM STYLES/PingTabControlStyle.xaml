@@ -20,7 +20,7 @@
     <SolidColorBrush x:Key="TabItem.Static.Border" Color="{StaticResource PING_COLOR_DARK_GRAY}"/>
 
     <SolidColorBrush x:Key="TabItem.MouseOver.Background" Color="{StaticResource PING_COLOR_DARK_GRAY}"/>
-    <SolidColorBrush x:Key="TabItem.MouseOver.Border" Color="{StaticResource PING_COLOR_DARK_GRAY}"/>
+    <SolidColorBrush x:Key="TabItem.MouseOver.Border" Color="{StaticResource PING_COLOR_BLACK}"/>
 
     <SolidColorBrush x:Key="TabItem.Selected.Background" Color="{StaticResource PING_COLOR_GREEN}"/>
     <SolidColorBrush x:Key="TabItem.Selected.Border" Color="{StaticResource PING_COLOR_WHITE}"/>
@@ -115,8 +115,8 @@
                             </MultiDataTrigger.Conditions>
                             <Setter Property="Background" TargetName="mainBorder" Value="{StaticResource TabItem.MouseOver.Background}"/>
                             <Setter Property="BorderBrush" TargetName="mainBorder" Value="{StaticResource TabItem.MouseOver.Border}"/>
-                            <Setter Property="BorderThickness" TargetName="innerBorder" Value="1,1,1,0"/>
-                            <Setter Property="BorderThickness" TargetName="mainBorder" Value="1,1,1,0"/>
+                            <Setter Property="BorderThickness" TargetName="innerBorder" Value="10,10,10,0"/>
+                            <Setter Property="BorderThickness" TargetName="mainBorder" Value="10,10,10,0"/>
                         </MultiDataTrigger>
                         
                         
