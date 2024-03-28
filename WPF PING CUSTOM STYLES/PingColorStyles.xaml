@@ -11,6 +11,8 @@
     <Color x:Key="PING_COLOR_RED">          #FFFF0F15 </Color>
     <Color x:Key="PING_COLOR_YELLOW">       #FFEFF334 </Color>
     <Color x:Key="PING_COLOR_GREEN">        #FF15B30D </Color>
+    <Color x:Key="PING_COLOR_BLUE">         #FF0F48BA </Color>
+    <Color x:Key="PING_COLOR_ORANGE">       #FFF5820F </Color>
 
     <!-- Some things require colors, some things require brushes -->
     <SolidColorBrush x:Key="PING_BRUSH_WHITE"        Color="{StaticResource PING_COLOR_WHITE}" />
@@ -23,5 +25,7 @@
     <SolidColorBrush x:Key="PING_BRUSH_RED"          Color="{StaticResource PING_COLOR_RED}" />
     <SolidColorBrush x:Key="PING_BRUSH_YELLOW"       Color="{StaticResource PING_COLOR_YELLOW}" />
     <SolidColorBrush x:Key="PING_BRUSH_GREEN"        Color="{StaticResource PING_COLOR_GREEN}" />
+    <SolidColorBrush x:Key="PING_BRUSH_BLUE"         Color="{StaticResource PING_COLOR_BLUE}" />
+    <SolidColorBrush x:Key="PING_BRUSH_ORANGE"       Color="{StaticResource PING_COLOR_ORANGE}" />
 
 </ResourceDictionary>
