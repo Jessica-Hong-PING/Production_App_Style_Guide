@@ -13,7 +13,7 @@
 
     <SolidColorBrush x:Key="ComboBoxItem.ItemsviewHover.Background" Color="{StaticResource PING_COLOR_LIGHT_GRAY}"/>
     <SolidColorBrush x:Key="ComboBoxItem.ItemsviewHover.Border" Color="{StaticResource PING_COLOR_LIGHT_GRAY}"/>
-    
+
     <SolidColorBrush x:Key="ComboBoxItem.ItemsviewSelected.Background" Color="{StaticResource PING_COLOR_BLUE}"/>
     <SolidColorBrush x:Key="ComboBoxItem.ItemsviewSelected.Border" Color="{StaticResource PING_COLOR_LIGHT_GRAY}"/>
 
