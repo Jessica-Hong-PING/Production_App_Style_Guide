@@ -1,6 +1,6 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-    
+    <!--Test-->
     <SolidColorBrush x:Key="Button.Static.Background" Color="{StaticResource PING_COLOR_DARK_GRAY}"/>
     <SolidColorBrush x:Key="Button.Static.Border" Color="{StaticResource PING_COLOR_LIGHT_GRAY}"/>
     <SolidColorBrush x:Key="Button.Static.Foreground" Color="{StaticResource PING_COLOR_LIGHT_GRAY}"/>
